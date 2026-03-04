@@ -163,23 +163,33 @@ This project demonstrates the complete workflow of building and evaluating a **r
 
 1. Clone the repository
 
+```
 git clone https://github.com/23A91A4403/collaborative-filtering-movie-recommender.git
+```
 
 2. Navigate to the project directory
 
+```
 cd collaborative-filtering-movie-recommender
+```
 
 3. Install required dependencies
 
+```
 pip install -r requirements.txt
+```
 
 4. Launch Jupyter Notebook
 
+```
 jupyter notebook
+```
 
 5. Open the notebook
 
+```
 movie_recommendation_system.ipynb
+```
 
 Run all cells to reproduce the analysis, train the recommendation models, and generate personalized movie recommendations.
 
